@@ -1,2 +1,2 @@
-# gitcourcs
- for schoool git code
+#gitcourcs
+##for schoool git code
